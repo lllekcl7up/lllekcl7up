@@ -1,4 +1,4 @@
-# Hi, I am Dima
+# I am Dima
 <div id="header" align="center"> 
   <img src="https://media3.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e47sxk1migg7fjy14xtj6niitusap52dapq55ni8il0&rid=giphy.gif&ct=s" width="90"/>
 </div>
