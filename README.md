@@ -11,10 +11,10 @@
 ###  :pencil: How to reach me:
 <div id="badges">
   <p><a href="mailto:lllekcl7up@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png" title="Gmail" alt="Gmail" width="70" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png" title="Gmail" alt="Gmail" width="80" height="35"/>
   </a>
   <a href="https://t.me/Didima35">
-    <img src="https://uploads.static.fo.vin/system/useruploads/images/62b7/0145/a923/2232/a975/9a78/original/62b70145a9232232a9759a77.jpg?1656160581" width="79"/>
+    <img src="https://uploads.static.fo.vin/system/useruploads/images/62b7/0145/a923/2232/a975/9a78/original/62b70145a9232232a9759a77.jpg?1656160581" title="Telegram" alt="Telegram" width="95" height="35"/>
   </a>
 </div>
 
