@@ -17,7 +17,7 @@
     <img src="https://uploads.static.fo.vin/system/useruploads/images/62b7/0145/a923/2232/a975/9a78/original/62b70145a9232232a9759a77.jpg?1656160581" title="Telegram" alt="Telegram" width="95" height="35"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=lllekcl7up&style=flat&color=blue" alt=""/>
 
 ___
 # :books: Language and Tools:
