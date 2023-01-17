@@ -38,6 +38,3 @@ ___
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </div>
 
-____
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllekcl7up&theme=transparent)
